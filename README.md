@@ -21,12 +21,19 @@ A Computer services company
 داده ها به صورت فرم جدول:
 
 phone_numbers(ID, phone_number)
+
 addresses(ID, street, ally, Plaque)
+
 Karamandan(ID, first_name, last_name, gender, date_of_birth, age, hired_date)
+
 Modiriat(ID, first_name, last_name, salary, role)
+
 Department(dept_name, dept_salary)
+
 Moshtari(ID, first_name, last_name)
+
 service(type, related_department)
+
 Anbar(barcode, how_many)
 
 
