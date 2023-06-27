@@ -34,7 +34,7 @@ Moshtari(ID, first_name, last_name)
 
 service(type, related_department)
 
-Anbar(barcode, how_many)
+part(barcode, how_many)
 
 
 مراحل ساخت:
