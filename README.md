@@ -28,22 +28,34 @@ Anbar(barcode, how_many)
 
 ۱. ابتدا بر اساس داده های بالا مدل ER خود را رسم میکنیم
 
+
 https://ibb.co/qs15Lkg
+
 ۲. حا لا در برنامه mysql workbench دیتابیس خود را میسازیم و جداول را بر اساس شمای با لا طراحی میکنیم
 
+
 https://ibb.co/sgmKR3J
+
+
 ۳. حال اطلاعات و داده هارا وارد میکنیم.
+
+
 https://ibb.co/3kYbzg0
 https://ibb.co/Qv70dKF
 https://ibb.co/5rmKGcQ
 https://ibb.co/JsbGrSX
 https://ibb.co/sHFM6NS
 
+
+
 ۴. حال چند query برای چک کردن اطلاعات میگیریم
+
+
 https://ibb.co/Wv8LMpx
 https://ibb.co/cvPCpxt
 https://ibb.co/Bfs7cSF
 https://ibb.co/L98g8NW
+
 
 
 دیتابیس ما آماده است :)
@@ -52,4 +64,6 @@ https://ibb.co/L98g8NW
 پس این کار را میکنیم 
 
 نکته: همان طور که مشخص است جداول phone_numbers و addreses از نوع weak entity set میباشند و در این شما متصل نشان داده نمی شوند.
+
+
 https://freeimage.host/i/HPpROAJ
